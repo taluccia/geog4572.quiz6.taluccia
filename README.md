@@ -24,4 +24,4 @@ Included in the img folder of this repository are 3 files:
 
 * apollo_org.jpg - this is the original image
 * apollo_clip.png - this is the product of the above process
-* apollo_svg.svg - this is the product of the above process, but saved as an svg to be used in an html document.  
+* apollo_svg.svg - this is the product of the above process, but saved as a svg file to be used in an html document.  
