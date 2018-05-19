@@ -1,0 +1,1 @@
+# geog4572.quiz6.taluccia
